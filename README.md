@@ -1,4 +1,4 @@
-# Image Background Remover App (Desktop GUI) 🚀 
+# Image Background Remover (Desktop GUI) 🚀 
 
 Excited to share a recent project, A desktop application that removes image backgrounds with a clean and intuitive interface, built using Python and Tkinter. Whether you're editing product photos, creating content, or just need a quick background cleanup, this tool does it fast and efficiently.
 
