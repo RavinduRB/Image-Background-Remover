@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/10ef263a-d469-4802-8027-b64f4c28449a
 ✅ **Download Processed Images**  
   Save the transparent-background images in PNG format with just a click.
 
-✅ **Multi-threaded Processing**  
+✅ **Multi threaded Processing**  
   Keeps the UI responsive while background removal runs in a separate thread.
 
 ---
