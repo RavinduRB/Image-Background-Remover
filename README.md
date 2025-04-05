@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/10ef263a-d469-4802-8027-b64f4c28449a
 ✅ **Multi-threaded Processing**  
   Keeps the UI responsive while background removal runs in a separate thread.
 
-
+---
 
 ### 🌍 Technologies Used
 🔹 **Python** 3
