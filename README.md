@@ -43,21 +43,27 @@ Would love to hear your thoughts and suggestions on further enhancing this appli
 
 ##Application Interface
 🔹UI
+
 ![UI](https://github.com/user-attachments/assets/50625639-d82d-44a2-b626-64028110991c)
 
 🔹Insert Image
+
 ![Insert Image](https://github.com/user-attachments/assets/882e395e-e5f2-4516-b3a1-1c8e162aace0)
 
 🔹Remove Background
+
 ![Remove Background](https://github.com/user-attachments/assets/4fcb0a41-3ba2-40fe-abf0-54d4bbb75b0a)
 
 🔹Remove Alert
+
 ![Remove Alert](https://github.com/user-attachments/assets/4f694796-d4b2-4394-8a7c-c7a37fa9cb36)
 
 🔹Save Image Alert
+
 ![Save Image](https://github.com/user-attachments/assets/39cf5874-a2c0-4242-abd9-6c265a151b8a)
 
 🔹Samples
+
 ![Result](https://github.com/user-attachments/assets/2be65b77-c673-48c5-aa72-6f8f8df5124b)
 
 
