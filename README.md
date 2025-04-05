@@ -29,10 +29,13 @@ https://github.com/user-attachments/assets/10ef263a-d469-4802-8027-b64f4c28449a
 ---
 
 ### 🌍 Technologies Used
-🔹 **Python 3**
+🔹 Python 3
 🔹 **Tkinter** (GUI framework)
+
 🔹 **Pillow (PIL)** (for image manipulation)
+
 🔹 **rembg** (AI-based background removal using ONNX Runtime)
+
 🔹 **Threading** (for non-blocking UI experience)
 
 ---
